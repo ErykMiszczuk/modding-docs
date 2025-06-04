@@ -6,9 +6,13 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'Modding Docs',
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
+				{
+					label: 'Project Zomboid',
+					autogenerate: { directory: 'project-zomboid' }
+				},
 				{
 					label: 'Guides',
 					items: [
