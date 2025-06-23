@@ -3,7 +3,7 @@ content:
   - name: docs
     label: Docs
     type: collection
-    path: 'src/posts'
+    path: 'src/content/docs'
     view:
       fields: [ title, published, date ]
     fields:
