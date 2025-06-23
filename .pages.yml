@@ -1,5 +1,5 @@
 media: src/assets
-constent: 
+content: 
   - name: docs
     label: Docs
     type: collection
