@@ -1,0 +1,12 @@
+{
+  "fmt": {
+    "useTabs": false,
+    "indentWidth": 2
+  },
+  "imports": {
+    "fs": "node:fs",
+    "url": "node:url",
+    "path": "node:path",
+    "sharp": "npm:sharp@^0.33.5"
+  }
+}
