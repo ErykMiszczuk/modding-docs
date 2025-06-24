@@ -34,6 +34,7 @@ jobs:
 
       - name: Build
         run: |
+          rm deno.lock
           deno install --allow-scripts
           deno run build \
             --site "${{ steps.pages.outputs.origin }}" \
