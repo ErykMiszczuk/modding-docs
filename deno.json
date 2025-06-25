@@ -6,8 +6,6 @@
   "imports": {
     "fs": "node:fs",
     "url": "node:url",
-    "path": "node:path",
-    "sharp": "npm:sharp@0.33.5",
-    "node-gyp": "npm:node-gyp@11.2.0"
+    "path": "node:path"
   }
 }
