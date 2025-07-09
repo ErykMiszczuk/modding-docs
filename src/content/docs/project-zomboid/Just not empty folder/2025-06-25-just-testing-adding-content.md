@@ -8,14 +8,8 @@ title: Just testing adding content
 console.log("Just example code");
 ```
 
-*   Now lets see what else I can post
+*   Now lets see what else I can
     
-*   Just for testing
-    
-*   Another point
-    
-
-> Test or not to test - that's the question
 
 GOMEZ NIE WIEDZIAŁ
 
